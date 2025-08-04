@@ -1,0 +1,21 @@
+{
+  "name": "simple-react-carousel",
+  "version": "1.0.0",
+  "description": "A simple React carousel component",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "carousel",
+    "react",
+    "carousel",
+    "carousel",
+    "component",
+    "react",
+    "carousel",
+    "component"
+  ],
+  "author": "Rakesh PK",
+  "license": "ISC"
+}
